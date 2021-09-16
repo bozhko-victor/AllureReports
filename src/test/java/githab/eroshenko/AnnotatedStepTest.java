@@ -2,7 +2,7 @@ package githab.eroshenko;
 
 import org.junit.jupiter.api.Test;
 
-public class AnnotetedStepTest {
+public class AnnotatedStepTest {
 
     final static String REPOSITORY = "eroshenkoam/allure-example";
     final static Integer ISSUE_NUMBER = 68;

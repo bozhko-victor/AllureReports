@@ -7,8 +7,8 @@ import static com.codeborne.selenide.Selectors.byText;
 import static com.codeborne.selenide.Selenide.$;
 import static com.codeborne.selenide.Selenide.open;
 
-import static githab.eroshenko.AnnotetedStepTest.ISSUE_NUMBER;
-import static githab.eroshenko.AnnotetedStepTest.REPOSITORY;
+import static githab.eroshenko.AnnotatedStepTest.ISSUE_NUMBER;
+import static githab.eroshenko.AnnotatedStepTest.REPOSITORY;
 import static org.openqa.selenium.By.linkText;
 import static org.openqa.selenium.By.partialLinkText;
 

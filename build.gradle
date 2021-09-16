@@ -13,9 +13,12 @@ compileTestJava {
     options.encoding = 'UTF-8'
 }
 
+
 allure {
     version = "2.15.0"
     autoconfigure = true
+    aspectjweaver = true
+    aspectjVersion = "1.9.6"
     configuration = "testImplementation"
 
     useJUnit5 {
